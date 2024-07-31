@@ -1,0 +1,7 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+G:/_FPGA/8_led/prj/flow_led.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+G:/_FPGA/8_led/rtl/flow_led.v,1721126274,verilog,,G:/_FPGA/8_led/sim/tb_flow_led.v,,flow_led,,,,,,,,
+G:/_FPGA/8_led/sim/tb_flow_led.v,1721126153,verilog,,,,flow_led_tb,,,,,,,,

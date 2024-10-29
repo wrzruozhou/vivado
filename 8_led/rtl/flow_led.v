@@ -51,10 +51,10 @@ always @(posedge clk or negedge rst_n)
     always @(posedge clk or negedge rst_n)
     begin
         if(!rst_n)
-            led <= 2'b1;
+            led <= 2'b11;
         // else if(cnt == (25'd2500_0000 - 25'd1))                              
         else if(cnt == (25'd25 - 25'd1))
-            led <= {led[0],led[1]};
+            led <= ~led;
         else
             led <= led;
     end

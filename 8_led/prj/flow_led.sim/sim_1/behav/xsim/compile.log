@@ -1,6 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "G:/_FPGA/8_led/rtl/flow_led.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module flow_led
-INFO: [VRFC 10-2263] Analyzing Verilog file "G:/_FPGA/8_led/sim/tb_flow_led.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module flow_led_tb
-INFO: [VRFC 10-2263] Analyzing Verilog file "G:/_FPGA/8_led/prj/flow_led.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl
